@@ -1,5 +1,7 @@
 ### Hi there, I'm Katsiaryna 👋
 
+<h3 align="center">I'm a junior Python Developer from Belarus </h3>
+
 <!--
 **katsiaryna-lysenka/katsiaryna-lysenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
