@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Katsiaryna 👋
 
 <!--
 **katsiaryna-lysenka/katsiaryna-lysenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
